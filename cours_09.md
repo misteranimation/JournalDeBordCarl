@@ -5,6 +5,10 @@
 ### Le projet créatif
 [![watch](Images/lines.jpg)](https://www.artstation.com/artwork/18R3ZL)
 
+Follow up Toon Boom Project project:
+[![watch](http://img.youtube.com/vi/yYKsP5_jwVc/0.jpg)](https://youtu.be/yYKsP5_jwVc)
+
+
 ### L'analyse
 
 Animation de lignes dessinées à la main dansant sur de la musique mettant en évidence les lueurs et les reflets dans un logiciel 2D
