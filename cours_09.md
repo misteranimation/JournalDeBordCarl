@@ -5,9 +5,6 @@
 ### Le projet créatif
 [![watch](Images/lines.jpg)](https://www.artstation.com/artwork/18R3ZL)
 
-Follow up Toon Boom Project project:
-[![watch](http://img.youtube.com/vi/yYKsP5_jwVc/0.jpg)](https://youtu.be/yYKsP5_jwVc)
-
 
 ### L'analyse
 
@@ -26,3 +23,7 @@ Ce projet est une courte démo montrant ce qui peut être fait en post-traitemen
 
 Conclusion : 
 C'est un bon exemple d'utilisation de Toon Boom pour créer des effets, mais le message est manquant. Le spectateur est laissé à critiquer cela dans son ensemble et peut le juger de manière critique sur son esthétique finale
+
+Follow up Toon Boom Project project:
+
+[![watch](http://img.youtube.com/vi/yYKsP5_jwVc/0.jpg)](https://youtu.be/yYKsP5_jwVc)
