@@ -3,9 +3,7 @@
 ## Analyse d'un projet créatif
 
 ### Le projet créatif
-[![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://www.artstation.com/artwork/18R3ZL)
-    
-    
+[![watch](Images/lines.jpg)](https://www.artstation.com/artwork/18R3ZL)
 
 ### L'analyse
 
