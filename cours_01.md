@@ -1,7 +1,7 @@
 # Cours 1
 ## Insérer une image
 Insérer une image ici: 
-![image01](images/holoyoga.png)
+![image01](Images/holoyoga.png)
 Yoga: *the **only** morning routine for me*
 
 
